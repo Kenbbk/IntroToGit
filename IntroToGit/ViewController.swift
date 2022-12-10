@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemIndigo
-        view.alpha = 0.8
+        view.alpha = 0.7
+        
     }
 
 
